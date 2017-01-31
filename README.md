@@ -40,7 +40,9 @@ European Community's Seventh Framework Programme (FP7/2007-2013) under
 grant agreement no. FP7-ICT-231940-BRICS (Best Practice in Robotics)
 
 
-
+TODO
+----
+catkin istallation is not done!
 
 
 
