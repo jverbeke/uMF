@@ -6,6 +6,9 @@ project(uMF)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED)
 
+catkin_add_env_hooks( 20.umf SHELLS sh DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/env-hooks)
+
+
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
 
